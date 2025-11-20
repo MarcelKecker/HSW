@@ -12,6 +12,8 @@ public class MethodCollector {
         aFirstMethod();
         methodCounter++;
 // hier kann die nächste Methode folgen.
+        marcelKeckerMethod();
+        methodCounter++;
     }
 
 
